@@ -42,7 +42,7 @@ const tekrar = [
   '358.6 sayısı 2 kere tekrar edilmiştir',
   '467.3 sayısı 2 kere tekrar edilmiştir'
 ]
-
+// sonra gelistiririm.
 describe('saFunction', ()=>{
     it('sa, as döndürüyor', ()=>{
         expect(functions.sa()).toBe('as');
